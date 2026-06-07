@@ -1,0 +1,25 @@
+C:\Users\panov_55yspok\source\repos\My bot\bin\Debug\net10.0\My bot.exe
+C:\Users\panov_55yspok\source\repos\My bot\bin\Debug\net10.0\My bot.deps.json
+C:\Users\panov_55yspok\source\repos\My bot\bin\Debug\net10.0\My bot.runtimeconfig.json
+C:\Users\panov_55yspok\source\repos\My bot\bin\Debug\net10.0\My bot.dll
+C:\Users\panov_55yspok\source\repos\My bot\bin\Debug\net10.0\My bot.pdb
+C:\Users\panov_55yspok\source\repos\My bot\obj\Debug\net10.0\My bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panov_55yspok\source\repos\My bot\obj\Debug\net10.0\My bot.AssemblyInfoInputs.cache
+C:\Users\panov_55yspok\source\repos\My bot\obj\Debug\net10.0\My bot.AssemblyInfo.cs
+C:\Users\panov_55yspok\source\repos\My bot\obj\Debug\net10.0\My bot.csproj.CoreCompileInputs.cache
+C:\Users\panov_55yspok\source\repos\My bot\obj\Debug\net10.0\My bot.dll
+C:\Users\panov_55yspok\source\repos\My bot\obj\Debug\net10.0\refint\My bot.dll
+C:\Users\panov_55yspok\source\repos\My bot\obj\Debug\net10.0\My bot.pdb
+C:\Users\panov_55yspok\source\repos\My bot\obj\Debug\net10.0\My bot.genruntimeconfig.cache
+C:\Users\panov_55yspok\source\repos\My bot\obj\Debug\net10.0\ref\My bot.dll
+C:\Users\panov_55yspok\source\repos\My bot\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\panov_55yspok\source\repos\My bot\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\panov_55yspok\source\repos\My bot\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\panov_55yspok\source\repos\My bot\bin\Debug\net10.0\Microsoft.Extensions.Options.dll
+C:\Users\panov_55yspok\source\repos\My bot\bin\Debug\net10.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\panov_55yspok\source\repos\My bot\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+C:\Users\panov_55yspok\source\repos\My bot\bin\Debug\net10.0\Telegram.Bot.dll
+C:\Users\panov_55yspok\source\repos\My bot\obj\Debug\net10.0\My bot.csproj.AssemblyReference.cache
+C:\Users\panov_55yspok\source\repos\My bot\obj\Debug\net10.0\My bot.csproj.Up2Date
+C:\Users\panov_55yspok\source\repos\My bot\bin\Debug\net10.0\Microsoft.Extensions.AI.Abstractions.dll
+C:\Users\panov_55yspok\source\repos\My bot\bin\Debug\net10.0\OllamaSharp.dll

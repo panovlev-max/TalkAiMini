@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "H0Hjf31j0Ok=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\panov_55yspok\\source\\repos\\My bot\\My bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\panov_55yspok\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.4.1\\microsoft.extensions.ai.abstractions.10.4.1.nupkg.sha512",
+    "C:\\Users\\panov_55yspok\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\panov_55yspok\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\panov_55yspok\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\panov_55yspok\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\panov_55yspok\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\panov_55yspok\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\panov_55yspok\\.nuget\\packages\\ollamasharp\\5.4.25\\ollamasharp.5.4.25.nupkg.sha512",
+    "C:\\Users\\panov_55yspok\\.nuget\\packages\\telegram.bot\\22.10.0.1\\telegram.bot.22.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
